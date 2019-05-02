@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.m \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h

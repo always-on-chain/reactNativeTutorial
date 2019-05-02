@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTModalHostViewManager.m \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTModalHostViewManager.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTModalHostView.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTView.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTModalHostViewController.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTModalManager.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Modules/RCTEventEmitter.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTRootView.h

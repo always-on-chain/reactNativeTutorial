@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Profiler/RCTProfile.h

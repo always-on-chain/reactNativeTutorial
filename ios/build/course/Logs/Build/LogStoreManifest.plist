@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1C218162-D8B8-4080-BC26-BB2DC148AA74</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C218162-D8B8-4080-BC26-BB2DC148AA74.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project course with scheme course and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578375411.20973301</real>
+			<key>timeStoppedRecording</key>
+			<real>578375416.16885102</real>
+			<key>title</key>
+			<string>Building project course with scheme course and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1C218162-D8B8-4080-BC26-BB2DC148AA74</string>
+		</dict>
+		<key>CDF2B95F-89A5-4307-8BC8-871F95B92B08</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CDF2B95F-89A5-4307-8BC8-871F95B92B08.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project course with scheme course and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578450816.19561005</real>
+			<key>timeStoppedRecording</key>
+			<real>578450834.36917198</real>
+			<key>title</key>
+			<string>Building project course with scheme course and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CDF2B95F-89A5-4307-8BC8-871F95B92B08</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/waynewest/Projects/reactNativeTutorial/ios/build/course/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/waynewest/Projects/reactNativeTutorial/node_modules/react-native/React/Base/RCTAssert.h
