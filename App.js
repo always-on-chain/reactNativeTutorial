@@ -10,11 +10,14 @@ import React, { Component } from "react";
 import { Platform, StyleSheet, View } from "react-native";
 import PlaceInput from "./src/components/PlaceInput/PlaceInput";
 import PlaceList from "./src/components/PlaceList/PlaceList";
+import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail";
+import placeImage from "./src/assets/hawaii.jpg";
 
 type Props = {};
 export default class App extends Component<Props> {
   state = {
-    places: []
+    places: [],
+    selectedPlace: null
   };
 
   placeAddedHandler = placeName => {
@@ -22,17 +25,35 @@ export default class App extends Component<Props> {
       return {
         places: prevState.places.concat({
           key: Math.random(),
-          value: placeName
+          name: placeName,
+          image: placeImage
         })
       };
     });
   };
 
-  placeDeletedHandler = key => {
+  placeDeletedHandler = () => {
     this.setState(prevState => {
       return {
         places: prevState.places.filter(place => {
-          return place.key !== key;
+          return place.key !== prevState.selectedPlace.key;
+        }),
+        selectedPlace: null
+      };
+    });
+  };
+
+  modalClosedHanlder = () => {
+    this.setState({
+      selectedPlace: null
+    });
+  };
+
+  placeSelectedHandler = key => {
+    this.setState(prevState => {
+      return {
+        selectedPlace: prevState.places.find(place => {
+          return place.key === key;
         })
       };
     });
@@ -41,10 +62,15 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
+        <PlaceDetail
+          selectedPlace={this.state.selectedPlace}
+          onItemDeleted={this.placeDeletedHandler}
+          onModalClosed={this.modalClosedHanlder}
+        />
         <PlaceInput onPlaceAdded={this.placeAddedHandler} />
         <PlaceList
           places={this.state.places}
-          onItemDeleted={this.placeDeletedHandler}
+          onItemSelected={this.placeSelectedHandler}
         />
       </View>
     );
