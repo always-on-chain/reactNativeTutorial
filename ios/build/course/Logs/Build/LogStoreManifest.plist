@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>416F5721-2F0F-4ACE-B127-2610608DC1E4</key>
+		<key>49106507-A5BC-4FB9-A48D-7947A0B888F3</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>416F5721-2F0F-4ACE-B127-2610608DC1E4.xcactivitylog</string>
+			<string>49106507-A5BC-4FB9-A48D-7947A0B888F3.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,15 +30,15 @@
 			<key>signature</key>
 			<string>Building project course with scheme course and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>578540266.73489296</real>
+			<real>579061549.87650502</real>
 			<key>timeStoppedRecording</key>
-			<real>578540278.92525804</real>
+			<real>579061551.75836205</real>
 			<key>title</key>
 			<string>Building project course with scheme course and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>416F5721-2F0F-4ACE-B127-2610608DC1E4</string>
+			<string>49106507-A5BC-4FB9-A48D-7947A0B888F3</string>
 		</dict>
-		<key>CDF2B95F-89A5-4307-8BC8-871F95B92B08</key>
+		<key>56869EF5-D1E0-413A-BC64-2345587DAA71</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -47,7 +47,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CDF2B95F-89A5-4307-8BC8-871F95B92B08.xcactivitylog</string>
+			<string>56869EF5-D1E0-413A-BC64-2345587DAA71.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -62,13 +62,13 @@
 			<key>signature</key>
 			<string>Building project course with scheme course and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>578450816.19561005</real>
+			<real>579061395.53514504</real>
 			<key>timeStoppedRecording</key>
-			<real>578450834.36917198</real>
+			<real>579061397.31623697</real>
 			<key>title</key>
 			<string>Building project course with scheme course and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>CDF2B95F-89A5-4307-8BC8-871F95B92B08</string>
+			<string>56869EF5-D1E0-413A-BC64-2345587DAA71</string>
 		</dict>
 	</dict>
 </dict>

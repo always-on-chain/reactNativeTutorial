@@ -5,7 +5,7 @@ import {
   DELETE_PLACE,
   SELECT_PLACE,
   DESELECT_PLACE
-} from "./actionsTypes";
+} from "./actionTypes";
 
 export const addPlace = (placeName, placeImage) => {
   return {
@@ -24,7 +24,7 @@ export const deletePlace = () => {
 export const selectPlace = key => {
   return {
     type: SELECT_PLACE,
-    placKey: key
+    placeKey: key
   };
 };
 
