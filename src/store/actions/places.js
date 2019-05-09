@@ -7,10 +7,11 @@ import {
   DESELECT_PLACE
 } from "./actionsTypes";
 
-export const addPlace = placeName => {
+export const addPlace = (placeName, placeImage) => {
   return {
     type: ADD_PLACE,
-    placeName: placeName
+    placeName: placeName,
+    placeImage: placeImage
   };
 };
 
