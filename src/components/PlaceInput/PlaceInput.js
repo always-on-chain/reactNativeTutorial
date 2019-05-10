@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { StyleSheet, Button, TextInput, View } from "react-native";
+import placeImage from "../../../src/assets/hawaii.jpg";
 
 class PlaceInput extends Component {
   state = {
@@ -16,7 +17,7 @@ class PlaceInput extends Component {
     if (this.state.placeName.trim() === "") {
       return;
     }
-    this.props.onPlaceAdded(this.state.placeName);
+    this.props.onPlaceAdded(this.state.placeName, placeImage);
   };
 
   render() {

@@ -20,11 +20,14 @@ import {
   selectPlace,
   deselectPlace
 } from "./src/store/actions/index";
+import { placeholder } from "@babel/types";
 
 type Props = {};
 class App extends Component<Props> {
   placeAddedHandler = (placeName, placeImage) => {
+    console.log("placeImage", placeImage);
     this.props.onAddPlace(placeName, placeImage);
+    console.log("place Added!");
   };
 
   placeDeletedHandler = () => {
