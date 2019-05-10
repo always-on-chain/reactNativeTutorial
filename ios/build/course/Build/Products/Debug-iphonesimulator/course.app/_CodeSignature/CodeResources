@@ -71,7 +71,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fo5cGxuIrDbNeW/RhwIEJUZkgu0=
+		rqmh9qVnmUdcZHIk9vyHth4mg8E=
+		</data>
+		<key>Ionicons.ttf</key>
+		<data>
+		mRu3+slwnNWNo3kBdw79RwPFQu0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -265,6 +269,17 @@
 			<key>hash2</key>
 			<data>
 			gI4WnkFhB/fAk/cKiE1cqcVpo/iwxL+xuuPY0kk7JAM=
+			</data>
+		</dict>
+		<key>Ionicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mRu3+slwnNWNo3kBdw79RwPFQu0=
+			</data>
+			<key>hash2</key>
+			<data>
+			INFzvLYFHQlzvgymqi+08npbKQ2AEGyyxWfI/cdyxxE=
 			</data>
 		</dict>
 		<key>PlugIns/courseTests.xctest.dSYM/Contents/Info.plist</key>

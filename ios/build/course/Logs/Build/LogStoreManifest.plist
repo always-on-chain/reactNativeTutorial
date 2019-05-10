@@ -6,6 +6,38 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0A274B03-8661-4A8B-9CED-255B18F63ED1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A274B03-8661-4A8B-9CED-255B18F63ED1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project course with scheme course and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>579148946.93396997</real>
+			<key>timeStoppedRecording</key>
+			<real>579148970.40357101</real>
+			<key>title</key>
+			<string>Building project course with scheme course and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0A274B03-8661-4A8B-9CED-255B18F63ED1</string>
+		</dict>
 		<key>49106507-A5BC-4FB9-A48D-7947A0B888F3</key>
 		<dict>
 			<key>className</key>
@@ -37,38 +69,6 @@
 			<string>Building project course with scheme course and configuration Debug</string>
 			<key>uniqueIdentifier</key>
 			<string>49106507-A5BC-4FB9-A48D-7947A0B888F3</string>
-		</dict>
-		<key>56869EF5-D1E0-413A-BC64-2345587DAA71</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>56869EF5-D1E0-413A-BC64-2345587DAA71.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>course project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>course</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project course with scheme course and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>579061395.53514504</real>
-			<key>timeStoppedRecording</key>
-			<real>579061397.31623697</real>
-			<key>title</key>
-			<string>Building project course with scheme course and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>56869EF5-D1E0-413A-BC64-2345587DAA71</string>
 		</dict>
 	</dict>
 </dict>
